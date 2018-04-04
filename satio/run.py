@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
-
 """Main module."""
 import sys
+
 import click
 
 
@@ -15,5 +15,3 @@ def main(args=None):
 
 if __name__ == "__main__":
     sys.exit(main())  # pragma: no cover
-
-

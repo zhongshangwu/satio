@@ -1,13 +1,10 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-
 """Tests for `satio` package."""
-
-
 import unittest
+
 from click.testing import CliRunner
 
-from satio import satio
 from satio import cli
 
 
